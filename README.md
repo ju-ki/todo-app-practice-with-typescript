@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ベースはこの方のYoutubeを参考に作成しました
 https://youtu.be/ANcopd8Bmao
+#### 変更点
+* idをuuidを使ってユニークなidを作成できるようにした
+* submitしたらinputの中身が消えるようにした
+* 空の情報を追加しないようにrequiredを追加
 
 ## Available Scripts
 
